@@ -1,4 +1,4 @@
-define(['pipAPI', 'https://Touchscreen/Figlio_pratica_touchscreen'
+define(['pipAPI', 'https://Touchscreen/Madre_Pratica_touchscreen'
 
 ], function(APIConstructor, batExtension){
     var API = new APIConstructor();
